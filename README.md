@@ -1,4 +1,5 @@
 QA Sprint 4 - API Testing
+
 🛠️ Project Description
 In Sprint 4, the focus was on API testing. During this sprint, we learned from the basics of APIs to advanced techniques for testing APIs using tools like Postman. The main goal was to make sure the application's API is working correctly through positive tests (valid behavior) and negative tests (error handling).
 
@@ -71,3 +72,4 @@ Deliver the final project with complete documentation and tests.
 If you want to contribute or improve this repository, feel free to fork it and submit a pull request. Any suggestions to improve the documentation or API tests are welcome!
 
 🧪 Created by GlenioFilho as part of QA training.
+
